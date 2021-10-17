@@ -16,7 +16,7 @@ A repository to contribute solutions to some algorithmic questions.
 
 ## Basic
 
-1. Write a program to input a string and if it is a palindrome or not.
+1. Write a program to input a string and check if it is a palindrome or not.
 
 ```
 Input: hannah
