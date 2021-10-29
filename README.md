@@ -33,6 +33,7 @@ Output: 5
 
 ```
 Output:
+
 *
 **
 ***
@@ -44,6 +45,7 @@ Output:
 
 ```
 Output:
+
      *
     **
    ***
