@@ -1,0 +1,9 @@
+print("Enter the array below and make sure you enter it in a format similar to this: 1 2 3 4 5 ")
+arr = input("Enter the array: ")
+try:
+    lst = []
+    for i in arr.split(" "):
+        lst.append(int(i))
+    print("Max of the numbers entered is ", max(lst))
+except:
+    print("An error occured!!!\nMaybe you entered the array in a wrong format."
