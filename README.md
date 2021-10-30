@@ -11,6 +11,7 @@ A repository to contribute solutions to some algorithmic questions.
 * Make the pull request.
 
 > Note: You can use any programming language for the submission.
+> All The Best!!
 
 ## Questions
 
